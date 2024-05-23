@@ -3,3 +3,4 @@ TO ADD:
 
 Highscores
 Touch up some of the hitbox stuff
+Make sprites cleaner
